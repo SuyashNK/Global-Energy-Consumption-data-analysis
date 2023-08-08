@@ -9,6 +9,8 @@ Identify shifts in energy usage patterns over time.
 Visualize data trends to gain a deeper understanding of energy demand.
 Explore the impact of different energy sources on global consumption.
 Provide valuable insights for sustainable energy planning.
+
+
 🔍 What's Inside:
 
 Data preprocessing and cleaning scripts.
